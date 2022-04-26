@@ -10,7 +10,11 @@ const GlobalStyle = createGlobalStyle`
 
 const theme = {
   colors: {
-    primary: '#0070f3',
+    primary: '#FFCC4D',
+    background: '#292F33',
+    text: '#292F33',
+    secondaryText: '#99AAB5',
+    textInDark: '#CCD6DD'
   },
 }
 
