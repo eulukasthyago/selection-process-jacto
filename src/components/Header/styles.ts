@@ -38,6 +38,7 @@ export const HeaderSection = styled.div`
     justify-content: space-between;
     align-items: center;
     color: ${props => props.theme.colors.textInDark};
+    margin-bottom: 40px;
 
     @media screen and (max-width: 991px){
         padding: 0 15px;
