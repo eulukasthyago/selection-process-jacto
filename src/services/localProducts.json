@@ -1,0 +1,727 @@
+{
+  "id": 132,
+  "status": 1,
+  "name": {
+    "en_GB": "JACTO PJH ",
+    "en_US": "JACTO PJH ",
+    "es_AR": "JACTO PJH ",
+    "es_ES": "JACTO PJH",
+    "fr_FR": "JACTO PJH",
+    "pt_BR": "Jacto PJH"
+  },
+  "description": {
+    "en_GB": "<p>The traditional sprayer.</p><p>It’s not only Jacto’s leading seller globally, it is absolutely the world’s top selling backpack sprayer – and the most imitated backpack sprayer ever.</p><p>No matter what your application, herbicide, fungicide, pesticide or crop nutrient, the PJH is a workhorse sprayer.</p>",
+    "en_US": "<p>The traditional sprayer.</p><p>It’s not only Jacto’s leading seller globally, it is absolutely the world’s top selling backpack sprayer – and the most imitated backpack sprayer ever.</p><p>Our PJH has a heavy duty internal brass piston pump, fitted with dual Viton piston cups, accurate tank measurements, locking handle and wand storage, convenient molded in top carry handle and extra large padded adjustable shoulder straps.</p><p>No matter what your application, herbicide, fungicide, pesticide or crop nutrient, the PJH is a workhorse sprayer.</p>",
+    "es_AR": "<p>El pulverizador tradicional.</p><p>El pulverizador más vendido del mundo, probado y aprobado en más de 100 países, para las más diversas aplicaciones.</p><p><br></p>",
+    "es_ES": "<p>El pulverizador tradicional.</p><p>El pulverizador más vendido del mundo, probado y aprobado en más de 100 países, para las más diversas aplicaciones.</p><p><br></p>",
+    "fr_FR": "<p>Le pulvérisateur traditionnel.</p><p>Le pulvérisateur à dos PJH apporte la tradition de toutes le développement des solutions de pulvérisation chez Jacto. Avec pompe à piston fabriqué en laiton, avec 140mm d'ouverture pour faciliter son remplissage et un réservoir de 20 litres, PJH est idéal pour nombreuses activités du quotidien.</p>",
+    "pt_BR": "<p>O pulverizador tradicional.<br><br>O pulverizador mais vendido do mundo, testado e aprovado em mais de 100 países.<br>Produzido com câmara de metal de alta durabilidade, bocal de 140 mm facilitando o abastecimento e tanque de 20 litros é ideal para todos os tipos de aplicações.</p>",
+    "ru_RU": "<p>Ранцевый опрыскиватель PJH сочетает в себе традиции Jacto в современном опрыскивании. Благодаря прижимному механизму, изготовленному из латуни, 140-мм заправочной горловине и 20-литровому баку, PJH отлично подходит для ежедневного использования.</p>",
+    "th_TH": ""
+  },
+  "image": {
+    "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_image_1557510180483_PJH_site.jpg",
+    "name": "product_image_1557510180483_PJH_site.jpg",
+    "size": 882643,
+    "type": "image/jpeg"
+  },
+  "header_image": [],
+  "gallery": [
+    {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_gallery_2_1542020380295_PJH_HEAD.jpg",
+      "name": "product_gallery_2_1542020380295_PJH_HEAD.jpg",
+      "size": 917471,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_gallery_1_1557509879553_Jacto_PJH_2017.jpg",
+      "name": "product_gallery_1_1557509879553_Jacto_PJH_2017.jpg",
+      "size": 1542069,
+      "type": "image/jpeg"
+    }
+  ],
+  "videos": [
+    {
+      "en_GB": "https://www.youtube.com/watch?v=YUlealKW90I&t=32s",
+      "en_US": "https://www.youtube.com/watch?v=YUlealKW90I&t=32s",
+      "es_AR": "https://www.youtube.com/watch?v=YUlealKW90I&t=32s",
+      "es_ES": "https://www.youtube.com/watch?v=YUlealKW90I&t=32s",
+      "fr_FR": "https://www.youtube.com/watch?v=YUlealKW90I&t=32s",
+      "pt_BR": "https://www.youtube.com/watch?v=YUlealKW90I&t=32s"
+    },
+    {
+      "en_GB": "https://www.youtube.com/watch?v=V12C1LvXFM0&t=115s",
+      "en_US": "https://www.youtube.com/watch?v=V12C1LvXFM0&t=115s",
+      "es_AR": "https://www.youtube.com/watch?v=V12C1LvXFM0&t=115s",
+      "es_ES": "https://www.youtube.com/watch?v=V12C1LvXFM0&t=115s",
+      "fr_FR": "https://www.youtube.com/watch?v=V12C1LvXFM0&t=115s",
+      "pt_BR": "https://www.youtube.com/watch?v=V12C1LvXFM0&t=115s"
+    },
+    {
+      "en_GB": "https://www.youtube.com/watch?v=2do19O37OnM",
+      "en_US": "https://www.youtube.com/watch?v=2do19O37OnM",
+      "es_AR": "https://www.youtube.com/watch?v=2do19O37OnM",
+      "es_ES": "https://www.youtube.com/watch?v=2do19O37OnM",
+      "fr_FR": "https://www.youtube.com/watch?v=2do19O37OnM",
+      "pt_BR": "https://www.youtube.com/watch?v=2do19O37OnM"
+    }
+  ],
+  "tour": [
+    {
+      "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_tour_0_1557509879553_JACTO_PJH_03.jpg",
+      "name": "product_tour_0_1557509879553_JACTO_PJH_03.jpg",
+      "size": 1128297,
+      "type": "image/jpeg",
+      "hotspots": []
+    }
+  ],
+  "features": [
+    {
+      "image": {
+        "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_features_0_image_1524831821975_1524662998495_PJH1.png",
+        "name": "product_features_0_image_1524831821975_1524662998495_PJH1.png",
+        "size": 284358,
+        "type": "image/png"
+      },
+      "title": {
+        "en_GB": "METAL CHAMBER",
+        "en_US": "METAL CHAMBER",
+        "es_AR": "CÁMARA DE METAL ",
+        "es_ES": "CÁMARA DE METAL ",
+        "fr_FR": "CHAMBRE MÉTALLIQUE",
+        "pt_BR": "CÂMARA METÁLICA",
+        "ru_RU": "МЕТАЛЛИЧЕСКАЯ КАМЕРА"
+      },
+      "description": {
+        "en_GB": "Durability and resistance  to chemical attack.",
+        "en_US": "<p>Durability and resistance to chemical attack.</p>",
+        "es_AR": "<p>Durabilidad y resistencia al ataque químico.</p>",
+        "es_ES": "<p>Alta durabilidad y resistencia.</p>",
+        "fr_FR": "Haute durabilité  et résistance\naux attaques chimiques.",
+        "pt_BR": "<p>Alta durabilidade e resistência.</p>",
+        "ru_RU": "Прочность и устойчивость к химическому воздействию. "
+      },
+      "markets_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "image": {
+        "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_features_1_image_1524831821975_1524668079879_PJH2.png",
+        "name": "product_features_1_image_1524831821975_1524668079879_PJH2.png",
+        "size": 299871,
+        "type": "image/png"
+      },
+      "title": {
+        "en_GB": "TANK OPENING AND HIGH-CAPACITY  FILTER",
+        "en_US": "TANK OPENING AND HIGH-CAPACITY  FILTER",
+        "es_AR": "BOCA DE LLENADO Y  FILTROS  DE ALTA CAPACIDAD",
+        "es_ES": "BOCA DE LLENADO ",
+        "pt_BR": "BOCAL DE ABASTECIMENTO"
+      },
+      "description": {
+        "en_GB": "With 140 mm the tank can be quickly filled without waste.",
+        "en_US": "With 5.5 in mm the tank can be quickly filled without waste.",
+        "es_AR": "Con 140mm el tanque puede llenarse rápidamente y sin desperdicio.",
+        "es_ES": "Con 140mm el tanque puede llenarse rápidamente y sin desperdicio.",
+        "fr_FR": "Avec 140mm, le réservoir peut être rapidement rempli sans gaspillage.",
+        "pt_BR": "<p>Com 140 mm de diâmetro, possibilita um abastecimento rápido e sem desperdício.</p>"
+      },
+      "markets_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "image": {
+        "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_features_2_image_1524831821975_1524668079879_PJH3.png",
+        "name": "product_features_2_image_1524831821975_1524668079879_PJH3.png",
+        "size": 324612,
+        "type": "image/png"
+      },
+      "title": {
+        "en_GB": "METALIC BASE AND ANTI- CORROSIVE PAINTING ",
+        "en_US": "METALIC BASE AND ANTI- CORROSIVE PAINTING ",
+        "es_AR": "BASE METÁLICA CON PINTURA ANTICORROSIVA",
+        "es_ES": "BASE METÁLICA CON PINTURA ANTICORROSIVA",
+        "fr_FR": "BASE MÉTALLIQUE AVEC PEINTURE ANTICORROSION",
+        "pt_BR": "BASE METÁLICA COM PINTURA ANTICORROSIVA"
+      },
+      "description": {
+        "en_GB": "Highly \nresistant material to falls and \nscratches",
+        "en_US": "Highly resistant material to falls and \nscratches",
+        "es_AR": "Material de alta resistencia a caídas y arañazos.",
+        "es_ES": "Material de alta resistencia a caídas y arañazos.",
+        "fr_FR": "Matériau très résistant aux chutes et\négratignures",
+        "pt_BR": "<p>Material de alta resistência a quedas e riscos</p>"
+      },
+      "markets_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    }
+  ],
+  "specifications": [
+    {
+      "items": [
+        {
+          "title": {
+            "en_GB": "Length",
+            "en_US": "Length",
+            "es_AR": "Longitud",
+            "es_ES": "Longitud",
+            "fr_FR": "Longueur",
+            "pt_BR": "Comprimento"
+          },
+          "description": {
+            "en_GB": "395 mm",
+            "en_US": "15.5 in",
+            "es_AR": "395 mm",
+            "es_ES": "395 mm",
+            "fr_FR": "395 mm",
+            "pt_BR": "395 mm"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Width",
+            "en_US": "Width",
+            "es_AR": "Ancho",
+            "es_ES": "Ancho",
+            "fr_FR": "Largeur",
+            "pt_BR": "Largura"
+          },
+          "description": {
+            "en_GB": "202 mm",
+            "en_US": "7.9 in",
+            "es_AR": "202 mm",
+            "es_ES": "202 mm",
+            "fr_FR": "202 mm",
+            "pt_BR": "202 mm"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Height",
+            "en_US": "Height",
+            "es_AR": "Altura",
+            "es_ES": "Altura",
+            "fr_FR": "Hauteur",
+            "pt_BR": "Altura"
+          },
+          "description": {
+            "en_GB": "544 mm",
+            "en_US": "21.4 in",
+            "es_AR": "544 mm",
+            "es_ES": "544 mm",
+            "fr_FR": "544 mm",
+            "pt_BR": "544 mm"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Net weight",
+            "en_US": "Net weight",
+            "es_AR": "Peso neto",
+            "es_ES": "Peso neto",
+            "fr_FR": "Poids net",
+            "pt_BR": "Peso líquido"
+          },
+          "description": {
+            "en_GB": "5.0 kg",
+            "en_US": "11.6 lbs",
+            "es_AR": "5.0 kg",
+            "es_ES": "5.0 kg",
+            "fr_FR": "5.0 kg",
+            "pt_BR": "5,0 kg"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Hose length",
+            "en_US": "Hose length",
+            "es_AR": "Longitud de la manguera",
+            "es_ES": "Longitud de la manguera",
+            "fr_FR": "Longueur du tuyau",
+            "pt_BR": "Comprimento da mangueira"
+          },
+          "description": {
+            "en_GB": "1350 mm",
+            "en_US": "53.1 in",
+            "es_AR": "1350 mm",
+            "es_ES": "1350 mm",
+            "fr_FR": "1350 mm",
+            "pt_BR": "1350 mm"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Spray lance length",
+            "en_US": "Spray lance length",
+            "es_AR": "Longitud de la lanza",
+            "es_ES": "Longitud de la lanza",
+            "fr_FR": "Longueur de la lance",
+            "pt_BR": "Comprimento da lança"
+          },
+          "description": {
+            "en_GB": "600 mm",
+            "en_US": "23.6 in",
+            "es_AR": "600 mm",
+            "es_ES": "600 mm",
+            "fr_FR": "600 mm",
+            "pt_BR": "600 mm"
+          }
+        }
+      ],
+      "title": {
+        "en_GB": "DIMENSIONS / WEIGHT",
+        "en_US": "DIMENSIONS / WEIGHT",
+        "es_AR": "DIMENSIONES / PESO",
+        "es_ES": "DIMENSIONES / PESO",
+        "fr_FR": "DIMENSIONS / POIDS",
+        "pt_BR": "DIMENSÕES / PESO"
+      },
+      "markets_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "items": [
+        {
+          "title": {
+            "en_GB": "Capacity",
+            "en_US": "Capacity",
+            "es_AR": "Capacidad",
+            "es_ES": "Capacidad",
+            "fr_FR": "Capacité",
+            "pt_BR": "Capacidade",
+            "ru_RU": "Объем"
+          },
+          "description": {
+            "en_GB": "20 L",
+            "en_US": "5 Gallons",
+            "es_AR": "20 L ",
+            "es_ES": "20 L ",
+            "pt_BR": "20 L",
+            "ru_RU": "20 л"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Material",
+            "en_US": "Material",
+            "es_AR": "Material",
+            "es_ES": "Material",
+            "fr_FR": "Matérial",
+            "pt_BR": "Material ",
+            "ru_RU": "Материал"
+          },
+          "description": {
+            "en_GB": "Plastic",
+            "en_US": "Plastic",
+            "es_AR": "Plástico",
+            "es_ES": "Plástico",
+            "fr_FR": "Plastique",
+            "pt_BR": "Plástico",
+            "ru_RU": "Пластик"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Tank opening diameter",
+            "en_US": "Tank opening diameter",
+            "es_AR": "Diametro de la boca ",
+            "es_ES": "Diametro de la boca ",
+            "fr_FR": "Diamètre d’ouverture:",
+            "pt_BR": "Diâmetro do bocal"
+          },
+          "description": {
+            "en_GB": "140 mm",
+            "en_US": "5.5 in",
+            "es_AR": "140 mm",
+            "es_ES": "140 mm",
+            "fr_FR": "140 mm",
+            "pt_BR": "140 mm"
+          }
+        }
+      ],
+      "title": {
+        "en_GB": "TANK",
+        "en_US": "TANK",
+        "es_AR": "TANQUE",
+        "es_ES": "TANQUE",
+        "fr_FR": "RÉSERVOIR",
+        "pt_BR": "TANQUE",
+        "ru_RU": "БАК"
+      },
+      "markets_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    },
+    {
+      "items": [
+        {
+          "title": {
+            "en_GB": "Working pressure (maximum)",
+            "en_US": "Working pressure (maximum)",
+            "es_AR": "Presión máxima de trabajo",
+            "es_ES": "Presión máxima de trabajo",
+            "fr_FR": "Pression du travail (maxime)",
+            "pt_BR": "Pressão de trabalho (máxima)",
+            "ru_RU": "Материал"
+          },
+          "description": {
+            "en_GB": "100 psi (6.8 bar)",
+            "en_US": "100 psi (6.8 bar)",
+            "es_AR": "100 psi (6.8 bar)",
+            "es_ES": "100 psi (6.8 bar)",
+            "fr_FR": "100 psi (6.8 bar)",
+            "pt_BR": "<p>100 psi (6.8 bar)</p>",
+            "ru_RU": "100 psi (6.8 bar)"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Capacity",
+            "en_US": "Capacity",
+            "es_AR": "Capacidad",
+            "es_ES": "Capacidad",
+            "fr_FR": "Capacité",
+            "pt_BR": "Capacidade",
+            "ru_RU": "Объем"
+          },
+          "description": {
+            "en_GB": "600 ml",
+            "en_US": "600 ml",
+            "es_AR": "600 ml",
+            "es_ES": "600 ml",
+            "fr_FR": "600 ml",
+            "pt_BR": "<p>600 ml</p>",
+            "ru_RU": "600 мл"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Type",
+            "en_US": "Type",
+            "es_AR": "Tipo",
+            "es_ES": "Tipo",
+            "pt_BR": "Tipo"
+          },
+          "description": {
+            "en_GB": "Double piston",
+            "en_US": "Double piston",
+            "es_AR": "Pistón doble",
+            "es_ES": "Pistón doble",
+            "pt_BR": "<p>Pistão duplo</p>"
+          }
+        },
+        {
+          "title": {
+            "en_GB": "Material",
+            "en_US": "Material",
+            "es_AR": "Material",
+            "es_ES": "Material",
+            "fr_FR": "Material",
+            "pt_BR": "Material"
+          },
+          "description": {
+            "en_GB": "Brass",
+            "en_US": "Brass",
+            "es_AR": "Latón",
+            "es_ES": "Latón",
+            "fr_FR": "Laiton",
+            "pt_BR": "<p>Latão</p>"
+          }
+        }
+      ],
+      "title": {
+        "en_GB": "PUMP",
+        "en_US": "PUMP",
+        "es_AR": "BOMBA",
+        "es_ES": "BOMBA",
+        "fr_FR": "POMPE",
+        "pt_BR": "BOMBA",
+        "ru_RU": "КАМЕРА"
+      },
+      "markets_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16
+      ]
+    }
+  ],
+  "created_at": "2018-04-27T09:23:42.000000Z",
+  "updated_at": "2022-04-20T14:06:46.000000Z",
+  "slug": {
+    "en_GB": "jacto-pjh",
+    "en_US": "jacto-pjh",
+    "es_AR": "jacto-pjh",
+    "es_ES": "jacto-pjh",
+    "fr_FR": "jacto-pjh",
+    "pt_BR": "jacto-pjh"
+  },
+  "related_jactoparts_title": {
+    "pt_BR": "Compre Peças!"
+  },
+  "related_jactoparts_url": {
+    "pt_BR": "https://jactoparts.jacto.com.br/pulv--costal-manual-pjh--c--lp-601---825398---versao---9000/p?utm_source=site-jacto&utm_medium=pag-prod&utm_campaign=institucional&utm_content=pjh"
+  },
+  "consortium": 0,
+  "prelaunch": 0,
+  "launch": 0,
+  "prelaunch_market_ids": null,
+  "launch_market_ids": null,
+  "show_in_comparator": 0,
+  "preview": 0,
+  "preview_market_ids": null,
+  "markets_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "categories_ids": [
+    15
+  ],
+  "scopes_by_market_id": [],
+  "files": [
+    {
+      "id": 233,
+      "scope_id": 132,
+      "scope_type": "App\\Model\\Product",
+      "name": {
+        "en_GB": "Operator's Manual",
+        "en_US": "Operator's Manual",
+        "es_AR": "Manual del operador",
+        "es_ES": "Manual del operador",
+        "fr_FR": "Manuel del operateur",
+        "pt_BR": "Manual do operador"
+      },
+      "file": {
+        "en_GB": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_en_GB_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "name": "product_file_file_en_GB_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "size": 15601679,
+          "type": "application/pdf"
+        },
+        "en_US": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_en_US_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "name": "product_file_file_en_US_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "size": 15601679,
+          "type": "application/pdf"
+        },
+        "es_AR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_es_AR_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "name": "product_file_file_es_AR_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "size": 15601679,
+          "type": "application/pdf"
+        },
+        "es_ES": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_es_ES_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "name": "product_file_file_es_ES_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "size": 15601679,
+          "type": "application/pdf"
+        },
+        "fr_FR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_fr_FR_1542016691069_PJH-FRA.pdf",
+          "name": "product_file_file_fr_FR_1542016691069_PJH-FRA.pdf",
+          "size": 217168,
+          "type": "application/pdf"
+        },
+        "pt_BR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_pt_BR_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "name": "product_file_file_pt_BR_1611841677154_1_-_Jacto_PJH_EN-PT-ES.pdf",
+          "size": 15601679,
+          "type": "application/pdf"
+        }
+      },
+      "created_at": "2018-11-12T07:58:11.000000Z",
+      "updated_at": "2021-01-28T10:47:57.000000Z"
+    },
+    {
+      "id": 234,
+      "scope_id": 132,
+      "scope_type": "App\\Model\\Product",
+      "name": {
+        "en_GB": "Technical information",
+        "en_US": "Technical information",
+        "es_AR": "Hoja técnica",
+        "es_ES": "Hoja técnica",
+        "fr_FR": "Fiche Technique",
+        "pt_BR": "Ficha Técnica"
+      },
+      "file": {
+        "en_GB": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_en_GB_1542016691715_PJH.pdf",
+          "name": "product_file_file_en_GB_1542016691715_PJH.pdf",
+          "size": 459090,
+          "type": "application/pdf"
+        },
+        "en_US": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_en_US_1542016691715_PJH.pdf",
+          "name": "product_file_file_en_US_1542016691715_PJH.pdf",
+          "size": 459107,
+          "type": "application/pdf"
+        },
+        "es_AR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_es_AR_1542016691715_PJH.pdf",
+          "name": "product_file_file_es_AR_1542016691715_PJH.pdf",
+          "size": 459161,
+          "type": "application/pdf"
+        },
+        "es_ES": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_es_ES_1542016691715_PJH.pdf",
+          "name": "product_file_file_es_ES_1542016691715_PJH.pdf",
+          "size": 459161,
+          "type": "application/pdf"
+        },
+        "fr_FR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_fr_FR_1542016691715_PJH.pdf",
+          "name": "product_file_file_fr_FR_1542016691715_PJH.pdf",
+          "size": 459149,
+          "type": "application/pdf"
+        },
+        "pt_BR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_pt_BR_1542016691715_PJH.pdf",
+          "name": "product_file_file_pt_BR_1542016691715_PJH.pdf",
+          "size": 459463,
+          "type": "application/pdf"
+        }
+      },
+      "created_at": "2018-11-12T07:58:11.000000Z",
+      "updated_at": "2018-11-12T07:58:11.000000Z"
+    },
+    {
+      "id": 256,
+      "scope_id": 132,
+      "scope_type": "App\\Model\\Product",
+      "name": {
+        "en_GB": "Parts List",
+        "en_US": "Parts List",
+        "es_AR": "Lista de Piezas",
+        "es_ES": "Lista de Piezas",
+        "pt_BR": "Lista de Peças"
+      },
+      "file": {
+        "en_GB": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_en_GB_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "name": "product_file_file_en_GB_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "size": 1706328,
+          "type": "application/pdf"
+        },
+        "en_US": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_en_US_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "name": "product_file_file_en_US_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "size": 1706328,
+          "type": "application/pdf"
+        },
+        "es_AR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_es_AR_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "name": "product_file_file_es_AR_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "size": 1706328,
+          "type": "application/pdf"
+        },
+        "es_ES": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_es_ES_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "name": "product_file_file_es_ES_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "size": 1706328,
+          "type": "application/pdf"
+        },
+        "fr_FR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_fr_FR_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "name": "product_file_file_fr_FR_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "size": 1706328,
+          "type": "application/pdf"
+        },
+        "pt_BR": {
+          "url": "https://s3.amazonaws.com/1-jacto.com.br/files/product_file_file_pt_BR_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "name": "product_file_file_pt_BR_1636497956143_Parts_Catalog_Jacto_PJH.pdf",
+          "size": 1706328,
+          "type": "application/pdf"
+        }
+      },
+      "created_at": "2019-03-21T09:57:23.000000Z",
+      "updated_at": "2021-11-09T22:45:56.000000Z"
+    }
+  ]
+}

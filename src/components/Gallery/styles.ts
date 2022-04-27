@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Gallery = styled.div`
-    margin-right: 50px;
+    
 `;
 
 export const GalleryContainer = styled.div`

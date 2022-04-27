@@ -1,5 +1,7 @@
-import { ThemeProvider } from 'styled-components'
-import GlobalStyle from '../src/GlobalStyles'
+import { ThemeProvider } from 'styled-components';
+import GlobalStyle from '../src/GlobalStyles';
+import { AppContextProvider } from '../src/provider/AppContext';
+
 
 const theme = {
   colors: {
@@ -18,8 +20,10 @@ export default function App({ Component, pageProps }:any) {
   return (
     <>
       <ThemeProvider theme={theme}>
-      <GlobalStyle />
-        <Component {...pageProps} />
+        <GlobalStyle />
+        <AppContextProvider>
+          <Component {...pageProps} />
+        </AppContextProvider>
       </ThemeProvider>
     </>
   )

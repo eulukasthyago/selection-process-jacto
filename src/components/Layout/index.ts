@@ -8,13 +8,18 @@ export const Container = styled.div`
 	max-width: 1300px;
 	width: 100%;
 	margin: 0 auto;
+	padding: 0 15px;
 `;
 
 export const Row = styled.div`
 	display: flex;
 	flex-wrap: wrap;
+	margin: 0 -15px;
 `;
 
 export const Column = styled.div<ColumnProps>`
 	width: calc(100% / ${(props:any) => props.columnWidth});
+  @media screen and (max-width:768px){
+    width: 100%;
+  }
 `;
