@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { Container } from "../Layout";
-import {
-    FiCreditCard,
-    FiSearch,
-    FiShoppingCart,
-    FiTruck,
-    FiUser,
-} from "react-icons/fi";
+// import {
+//     FiCreditCard,
+//     FiSearch,
+//     FiShoppingCart,
+//     FiTruck,
+//     FiUser,
+// } from "react-icons/fi";
 import LanguageSelect from "../LanguageSelect";
 import {
     HeaderSection,
@@ -16,18 +16,18 @@ import {
     HeaderRight,
     LinkList,
     LinkListItem,
-    TopBar,
-    TopBarContainer,
-    TopBarLeft,
-    TopBarCenter,
-    TopBarRight,
-    TopBarIcon,
-    Cart,
-    CartHeader,
-    CartDropdown,
-    CartIcon,
-    CartAmount,
-    CartEmpty,
+    // TopBar,
+    // TopBarContainer,
+    // TopBarLeft,
+    // TopBarCenter,
+    // TopBarRight,
+    // TopBarIcon,
+    // Cart,
+    // CartHeader,
+    // CartDropdown,
+    // CartIcon,
+    // CartAmount,
+    // CartEmpty,
 } from "./styles";
 
 import { useProduct } from "../../provider/AppContext";

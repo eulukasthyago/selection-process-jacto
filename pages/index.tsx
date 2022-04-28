@@ -1,7 +1,7 @@
 import { Column, Container, Row } from '../src/components/Layout';
 import Header from '../src/components/Header';
 import Gallery from '../src/components/Gallery';
-import { useProduct } from "../src/provider/AppContext";
+// import { useProduct } from "../src/provider/AppContext";
 import ProductContent from '../src/components/ProductContent';
 
 
