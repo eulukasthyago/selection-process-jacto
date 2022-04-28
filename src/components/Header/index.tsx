@@ -7,6 +7,7 @@ import {
     FiTruck,
     FiUser,
 } from "react-icons/fi";
+import LanguageSelect from "../LanguageSelect";
 import {
     HeaderSection,
     HeaderContainer,
@@ -29,10 +30,15 @@ import {
     CartEmpty,
 } from "./styles";
 
+import { useProduct } from "../../provider/AppContext";
+
 const Header = () => {
+
+    const { product, lang} = useProduct();
+
     return (
         <>
-            <TopBar>
+            {/* <TopBar>
                 <Container>
                     <TopBarContainer>
                         <TopBarLeft>
@@ -50,35 +56,36 @@ const Header = () => {
                         </TopBarRight>
                     </TopBarContainer>
                 </Container>
-            </TopBar>
+            </TopBar> */}
 
             <HeaderSection>
                 <Container>
                     <HeaderContainer>
                         <HeaderLeft>
-                            <div>Store Name</div>
+                            <div>{product.name && product.name[lang.current]}</div>
                         </HeaderLeft>
                         <HeaderCenter>
                             <LinkList>
                                 <LinkListItem>
-                                    <Link href="#home">
-                                        <a>Home</a>
+                                    <Link href="#description">
+                                        <a>Descrição</a>
                                     </Link>
                                 </LinkListItem>
                                 <LinkListItem>
-                                    <Link href="#blog">
-                                        <a>Blog</a>
+                                    <Link href="#resources">
+                                        <a>Recursos</a>
                                     </Link>
                                 </LinkListItem>
                                 <LinkListItem>
-                                    <Link href="#products">
-                                        <a>Categorias</a>
+                                    <Link href="#specifications">
+                                        <a>Especificações</a>
                                     </Link>
                                 </LinkListItem>
                             </LinkList>
                         </HeaderCenter>
                         <HeaderRight>
-                            <div>
+                            <LanguageSelect />
+                            {/* <div>
                                 <FiSearch />
                             </div>
                             <div>
@@ -105,8 +112,7 @@ const Header = () => {
                                         </p>
                                     </CartEmpty>
                                 </CartDropdown>
-                            </Cart>
-                            <div></div>
+                            </Cart> */}
                         </HeaderRight>
                     </HeaderContainer>
                 </Container>

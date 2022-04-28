@@ -3,16 +3,23 @@ import React, { createContext, useState, useEffect } from 'react';
 import localProducts from "../services/localProducts.json";
 //import axios from "axios";
 
-const AppContext = createContext({});
+const AppContext = createContext<any>({});
 
-const AppContextProvider = ({ children }) => {
-  const [product, setProduct] = useState({});
+const AppContextProvider = ({ children }: any) => {
+  const [product, setProduct] = useState<any>({});
   
   const [lang, setLang] = useState({
     current: "pt_BR",
     default: "pt_BR",
     langs: [
-        'pt_BR'
+        'pt_BR',
+        'en_GB',
+        'en_US',
+        'es_AR',
+        'es_ES',
+        'fr_FR',
+        'ru_RU',
+        'th_TH'
       ]
   });
   

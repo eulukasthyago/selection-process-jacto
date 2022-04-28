@@ -18,7 +18,7 @@ export const Row = styled.div`
 `;
 
 export const Column = styled.div<ColumnProps>`
-	width: calc(100% / ${(props:any) => props.columnWidth});
+	width: calc((100% / 12) * ${(props:any) => props.columnWidth});
   @media screen and (max-width:768px){
     width: 100%;
   }

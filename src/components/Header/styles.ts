@@ -125,6 +125,7 @@ export const CartDropdown = styled.div`
     padding: 20px;
     opacity: 0;
     visibility: hidden;
+    box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
     transition: all 250ms;
 `;
 

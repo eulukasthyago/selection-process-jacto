@@ -1,32 +1,60 @@
-import { Gallery as GalleryContent, GalleryContainer } from "./styles";
-import SliderImage from "react-zoom-slider";
+import React, { useState } from "react";
 
-
-const data = [
-    {
-      image: 'https://cdn.tgdd.vn/Products/Images/42/209800/oppo-reno2-f-xanh-1-org.jpg',
-      text: 'img1'
-    },
-    {
-      image: 'https://cdn.tgdd.vn/Products/Images/42/209800/oppo-reno2-f-xanh-4-org.jpg',
-      text: 'img2'
-    },
-    {
-      image: 'https://cdn.tgdd.vn/Products/Images/42/209800/oppo-reno2-f-xanh-10-org.jpg',
-      text: 'img3'
-    }
-];
+import {
+    Gallery as GalleryContent,
+    GalleryContainer,
+    GalleryCorrousel,
+    GalleryThumbs,
+} from "./styles";
+import { Thumbs } from "swiper";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import { useProduct } from "../../provider/AppContext";
 
 const Gallery = () => {
+    const [thumbsCarrossel, setThumbsCarrossel] = useState<any>(null);
+
+    const { product, lang } = useProduct();
+
     return (
         <GalleryContent>
             <GalleryContainer>
-                <SliderImage
-                    data={data} 
-                    width="100%" 
-                    showDescription={true} 
-                    direction="right" 
-                />
+                <GalleryCorrousel>
+                    <Swiper
+                        modules={[Thumbs]}
+                        thumbs={{ swiper: thumbsCarrossel }}
+                        spaceBetween={50}
+                        slidesPerView={1}
+                    >
+                        {product.gallery &&
+                            product.gallery.map((item: any, index:number) => (
+                                <SwiperSlide key={index}>
+                                    <img
+                                        src={item.url}
+                                        alt={product.name[lang.current]}
+                                    />
+                                </SwiperSlide>
+                            ))}
+                    </Swiper>
+                </GalleryCorrousel>
+                <GalleryThumbs>
+                    <Swiper
+                        modules={[Thumbs]}
+                        onSwiper={setThumbsCarrossel}
+                        watchSlidesProgress
+                        slidesPerView={4}
+                    >
+                        {product.gallery &&
+                            product.gallery.map((item: any, index:number) => (
+                                <SwiperSlide key={index}>
+                                    <img
+                                        src={item.url}
+                                        alt={product.name[lang.current]}
+                                    />
+                                </SwiperSlide>
+                            ))}
+                    </Swiper>
+                </GalleryThumbs>
             </GalleryContainer>
         </GalleryContent>
     );
