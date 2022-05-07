@@ -38,7 +38,7 @@ const FloatingWhatsapp = () => {
 
     return (
         <Link href={`http://wa.me/5514912345678?text=Gostaria%20de%20saber%20mais%20sobre%20o%20produto%20${product.name && product.name[lang.current]}`}>
-            <a>
+            <a target="_blank">
                 <FloatingWhatsappContent>
                     <div className={`${showMessage&&'show_message'}`} data-tooltip="Precisa de ajuda?" data-flow="top">
                         <Player

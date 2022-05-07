@@ -25,14 +25,14 @@ export default function Home() {
                     </Column>
                 </Row>
             </Container>
-            <div id="contact" style={{ background: theme.colors.background, padding: '100px 20px', marginTop: 50 }}>
+            <div id="contact" style={{ background: "#292F33", padding: '100px 20px', marginTop: 50 }}>
                 <Container>
                     <Row>
                         <Column columnWidth={12}>
                             <section>
                                 <header>
-                                    <h3 style={{ color: theme.colors.textInDark, textAlign: 'center'}}>Increva-se para saber mais</h3>
-                                    <p style={{ color: theme.colors.secondaryText, textAlign: 'center', marginBottom: 40 }}>
+                                    <h3 style={{ color: "#CCD6DD", textAlign: 'center'}}>Increva-se para saber mais</h3>
+                                    <p style={{ color: "#99AAB5", textAlign: 'center', marginBottom: 40 }}>
                                         Entraremos em contato e tiraremos todas
                                         as suas duvidas
                                     </p>
