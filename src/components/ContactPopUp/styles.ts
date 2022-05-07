@@ -34,7 +34,7 @@ export const PopUpContainer = styled.div`
     z-index: 2;
 `;
 
-export const PopUpCloseButton = styled.button.attrs(props => ({
+export const PopUpCloseButton = styled.button.attrs(() => ({
     type: 'button'
 }))`
     width: 30px;
