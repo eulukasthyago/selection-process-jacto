@@ -81,6 +81,11 @@ const Header = () => {
                                         <a>Especificações</a>
                                     </Link>
                                 </LinkListItem>
+                                <LinkListItem>
+                                    <Link href="#contact">
+                                        <a>Contato</a>
+                                    </Link>
+                                </LinkListItem>
                             </LinkList>
                         </HeaderCenter>
                         <HeaderRight>
