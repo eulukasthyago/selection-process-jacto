@@ -6,11 +6,9 @@ import ProductContent from "../src/components/ProductContent";
 import ContactForm from "../src/components/ContactForm";
 import PopUpContact from "../src/components/ContactPopUp";
 
-import { useTheme } from "styled-components";
 import FloatingWhatsapp from "../src/components/FloatingWhatsapp";
 
 export default function Home() {
-    const theme = useTheme();
 
     return (
         <>
